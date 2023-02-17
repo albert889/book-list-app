@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "mybook-app",
+    "slug": "mybook-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/285636_book_icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ic_launcher_foreground.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.greentea889.beauty4everapp"
+    },
+    "web": {
+      "favicon": "./assets/285636_book_icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5310228c-43fe-4fa6-8cab-2c5cdf19a4b0"
+      }
+    }
+  }
+}
