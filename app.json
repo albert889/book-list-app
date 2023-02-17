@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "mybook-app",
+    "name": "MyBook",
     "slug": "mybook-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,14 +25,14 @@
         "foregroundImage": "./assets/ic_launcher_foreground.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.greentea889.beauty4everapp"
+      "package": "com.greentea889.mybook123"
     },
     "web": {
       "favicon": "./assets/285636_book_icon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "5310228c-43fe-4fa6-8cab-2c5cdf19a4b0"
+        "projectId": "aca10b5b-fd11-42ff-b608-6604923f19e0"
       }
     }
   }
